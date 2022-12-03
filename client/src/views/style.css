@@ -1,0 +1,79 @@
+.joke{
+    margin-top: 40px;
+    border: 4px black dotted;
+}
+
+.jokeauthor{
+    width: 300px;
+    margin: 20px;
+    padding: 10px 0;
+}
+
+.jokeinputs{
+    display: flex;
+    align-items: start;
+    flex-flow: column;
+
+    margin: 20px;
+
+}
+.w-100{
+    width: 100%;
+}
+
+.jokebox{
+    margin-top: 20px;
+    border: 4px black solid;
+    background-color:#212529 ;
+    padding: 20px;
+}
+
+.joketext{
+    width: 500px;
+    height: 200px;
+}
+
+body {
+    /*margin: 1em;*/
+    font: 1.2rem/1.4 Georgia, serif;
+    /*background-color: #282c34;*/
+    /*color: mintcream;*/
+}
+
+.title{
+    margin: 1em;
+}
+.quote {
+    margin: 0;
+    background: #eeeeee50;
+    padding: 1em;
+    /*border-radius: 1em;*/
+}
+.quote figcaption,
+.quote blockquote {
+    margin: 1em;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+/*html,*/
+/*body {*/
+/*    height: 100%;*/
+/*}*/
+/*.wrapper {*/
+/*    position: relative;*/
+/*    min-height: 70%;*/
+/*}*/
+/*.content {*/
+/*    padding-bottom: 70px;*/
+/*}*/
+/*.footer {*/
+/*    position: absolute;*/
+/*    left: 10%;*/
+/*    bottom: 0;*/
+/*    width: 80%;*/
+/*    height: 80px;*/
+
+/*}*/
